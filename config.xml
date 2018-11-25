@@ -1,0 +1,33 @@
+﻿<!--
+CMP4配置文件
+
+所有配置参数说明请见：http://bbs.cenfun.com/thread-10891-1-1.html
+
+更多详细参数说明，请参见CMP交流论坛http://bbs.cenfun.com/
+-->
+<cmp 
+	name = "ACG Player" 
+	link = "http://space.bilibili.tv/472249" 
+	description = "ACG音乐 - http://space.bilibili.tv/472249"
+	logo = "{src:logo.jpg,xywh:[10R,10R,0,0]}"
+	
+	skins = ""
+	plugins = ""
+	backgrounds = ""
+	lists = "list.zip"
+	
+	src_handler = "" 
+	lrc_handler = ""
+
+	skin_id = ""
+
+	play_id = ""
+	auto_play = ""
+	list_delete = "1"
+	
+	sound_sample = "true"
+	mixer_displace = "true"
+	mixer_filter = "true"
+	
+	counter = "http://img.users.51.la/3389672.asp"
+/>
