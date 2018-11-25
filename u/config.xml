@@ -1,0 +1,20 @@
+﻿<cmp
+  name="ACGVideo - http://piuu.66rt.com"
+  auto_play="1" auto_open="1" list_delete="1" play_id="1"
+  sound_sample="1" mixer_displace="1" mixer_filter="1"
+
+lists='list.zip?2012-03-12'
+
+skins="
+youtube.7huo.zip,
+"
+video_image="{src:plugins/bg.swf,lock:0,xywh:[0c,0c,100p,100p]}"
+
+backgrounds="000"
+
+plugins="
+plugins.zip?2012-09-12
+"
+  bg_src="p/bg/rd"
+  p="p/"
+/>
